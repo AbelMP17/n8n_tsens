@@ -97,7 +97,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-companies"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-companies"
       },
       {
         "args_at_root": false,
@@ -116,7 +116,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-specialities"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-specialities"
       },
       {
         "args_at_root": false,
@@ -176,7 +176,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-disponibilidad"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-disponibilidad"
       },
       {
         "args_at_root": false,
@@ -207,7 +207,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/cancel-cita"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/cancel-cita"
       },
       {
         "args_at_root": false,
@@ -236,7 +236,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-subpatients-data"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-subpatients-data"
       },
       {
         "args_at_root": false,
@@ -275,7 +275,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-citas"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-citas"
       },
       {
         "args_at_root": false,
@@ -312,7 +312,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-patient-data"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-patient-data"
       },
       {
         "args_at_root": false,
@@ -344,7 +344,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-profesionales"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-profesionales"
       },
       {
         "args_at_root": false,
@@ -387,7 +387,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/get-patient-data-by-name"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/get-patient-data-by-name"
       },
       {
         "args_at_root": false,
@@ -456,7 +456,7 @@
         "speak_during_execution": false,
         "timeout_ms": 120000,
         "type": "custom",
-        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/test-cmcl/create-cita"
+        "url": "https://n8n-ia-2.integraciones.tecsens.com/webhook/cmcl/create-cita"
       },
       {
         "custom_sip_headers": {},
